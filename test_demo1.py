@@ -8,6 +8,7 @@ def test_firstProgram():
 @pytest.mark.smoke
 def test_secondProgram():
     print("GOOOOD")
+    print("SecondProgram")
 
 
 @pytest.mark.xfail
